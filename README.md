@@ -23,11 +23,11 @@
 </p>
 
 <!---
-🔗 언급된 사이트들
-(중요)GitHub Profile Readme 자동 생성기 : https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+🔗 중요 사이트들
+GitHub Profile Readme 자동 생성기 : https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+베스트 프로필 모음: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 드림코딩 리파지토리 ⇢  https://github.com/dream-ellie
 깃허브 리드미 문서  ⇢ h[ttps://docs.github.com/en/account-an...](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 뱃지 만들기  ⇢ https://shields.io
-보너스 선물 🎁  ⇢ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 --->
  
