@@ -1,7 +1,7 @@
 ### About me
 <p align="left">
 <a href="https://jaoneol.github.io" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="teddynote" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/jaoneol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/teddylee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yong-cheol-jang-593794197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/teddylee" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Hi 👋, I'm Devin(장용철) 👌</h1>
