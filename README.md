@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/yong-cheol-jang-593794197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/teddylee" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Hi 👋, I'm Devin(장용철) 👌</h1>
+<h2 align="left">Hi 👋, I'm DS2Man(장용철) 👌</h1>
 <h3 align="left">An ordinary engineer who loves Data and AI</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
