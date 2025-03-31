@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="left">Hi 👋, I'm DS2Man(장용철) 👌</h1>
-
+<!--
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
          width="100" 
@@ -16,7 +16,7 @@
         <span>Samsung Electronics, Onyang</span>
     </div>
 </div>
-
+-->
 
 <h3 align="left">An ordinary engineer who loves Data and AI</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
