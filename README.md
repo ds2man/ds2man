@@ -38,8 +38,8 @@
 </p>
 <br>
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaoneol&show_icons=true&theme=highcontrast" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaoneol&" alt="jaoneol" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ds2man&show_icons=true&theme=highcontrast" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds2man&" alt="ds2man" />
 </div>
 <!---
 🔗 중요 사이트들
